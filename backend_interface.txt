@@ -1,0 +1,4 @@
+This files purpose is to document the methods which can be
+used by the animed to call one backend
+
+
